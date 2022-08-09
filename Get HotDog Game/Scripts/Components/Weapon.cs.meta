@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2ba99900dfc4f947955f16b75a13cf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PEESTOL_FIRE: {fileID: 8300000, guid: 26da61765646bad49bf6c048cff22d92, type: 3}
+  - PEESTOL_RELOAD: {fileID: 8300000, guid: 6efa41b9087f51744ad4cb986fdf6359, type: 3}
+  - PEESTOL_EMPTY: {fileID: 8300000, guid: a885bcef76d86004cbd774c4f8a992a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
